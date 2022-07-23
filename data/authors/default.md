@@ -1,16 +1,14 @@
 ---
-name: Tails Azimuth
+name: Nolan Braman
 avatar: /static/images/avatar.png
-occupation: Professor of Atmospheric Science
-company: Stanford University
-email: address@yoursite.com
+occupation: Software Engineer
+company: Altana Technologies
+email: nolan.braman@gmail.com
 twitter: https://twitter.com/Twitter
-linkedin: https://www.linkedin.com
-github: https://github.com
+linkedin: https://www.linkedin.com/in/nolanbraman/
+github: https://github.com/eathren
 ---
 
-Tails Azimuth is a professor of atmospheric sciences at the Stanford AI Lab. His research interests includes complexity modelling of tailwinds, headwinds and crosswinds.
+Nolan Braman is a software engineer and a candidate for a masters in computer science at Northeastern University. His interests include graph networks and AI/ML utilities in stock prediction.
 
-He leads the clean energy group which develops 3D air pollution-climate models, writes differential equation solvers, and manufactures titanium plated air ballons. In his free time he bakes raspberry pi.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+He is connected to his university's blockchain club, where he served as the Director of Technology, and is lucky enough to be paid to write TypeScript and Python for a living. In his free time, he likes to find new tea shops, snowboard, and surf.
