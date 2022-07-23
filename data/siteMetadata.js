@@ -1,5 +1,5 @@
 const siteMetadata = {
-  title: 'Nolan Braman | Software Engineer/ing in the USA',
+  title: 'Nolan Braman | Software Engineer',
   author: 'Nolan Braman',
   headerTitle: 'Nolan Braman',
   description: 'Blog and thoughts about the state of software in the US',
