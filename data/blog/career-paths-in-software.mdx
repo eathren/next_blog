@@ -1,0 +1,114 @@
+---
+title: Career Paths in Software - Frontend, Backend (and more)
+date: '2022-07-22'
+tags:
+  [
+    'career',
+    'software',
+    'frontend',
+    'backend',
+    'devops',
+    'distributed',
+    'ML',
+    'AI',
+    'getting started',
+  ]
+draft: false
+summary: The choices in software can be tricky, and picking which way to go can be a hard decision. H
+---
+
+# Introduction
+
+Choosing a career path in as a developer can be tricky. When a person gets started, either as a fresh grad, bootcamp grad, or even self-taught, there are so many choices, and some of the salaries flying around can seem unreal. This guide is to help new developers understand the difference, and perhaps which road they might want to take.
+
+It's worth noting that the terms "developer" and "engineer" are, for the most part, interchangable, and I will use them as such. Personally however, I view engineers as people who will work in teams, and developers as those who will either work solo, or in small teams, but it's really just semantics at a certain point.
+
+## Frontend
+
+Popular Languages: JavaScript, TypeScript, CSS/Sass/Scss, HTML
+
+The Frontend is really comprised of two parts. There's the "front-of-the-frontend", and the "back-of-the-frontend". In the last five years, this was a bit of a blur as frontend frameworks trended in the direction of SSR and SSG (Like Next.js and Gatsby.js), and suddenly work that used to be done exclusively on the backend became possible in the frontend.
+
+### front-of-the-frontend developer
+
+This is a web developer who specialized in writing HTML, CSS, and JavaScript. In modern times, you'll find companies also interpret this using a modern framework (like React), with something like css-modules or styled-components, and using TypeScript, which is a typed version of JavaScript.
+
+They will:
+
+- **Take design mock-ups and implement mobile-first solutions**, using CSS to create personalized, intuitive user interfaces with good user experiences. They will also manipulate the DOM with javascript.
+
+- **Be involved in testing**, for either end-to-end tests where a programmed bot will simulate user interactions with the app and flag any errors, or acceptance, integration, unit, visual regression, and cross-browser compatability. This is all to say, they'll program parts of the app to make sure that the app hasn't broken in new updates, works equally well on all major browsers, and all the pieces work as they should.
+
+- **Optimize apps for speed and accessibility**. Most users will leave a webpage if it loads slower than 3 seconds, so it's important for most kinds of sites and webapps to perform faster than that window.
+
+- **Maintain and extend a component library** of all the pieces that comprise the webapp.
+
+### back-of-the-backend
+
+a back-of-the-backend developer is one who specializes in writing business logic in javascript.
+
+They will:
+
+- **Write CRUD logic** and handle state, routing, cache, and authentication within the app.
+
+- **Use the UI created by the front-of-the-frontend developers** to populate fields with data from the backend, or data generated client-side (on the machine the user is on, like a phone or PC).
+
+- **Write user, end-to-end, or integration tests.**
+
+- **Architect tools**
+
+- **Some devops work**, for things like bundlers, CI/CD, and sometimes, hosting.
+
+- **Work with the product and UI teams** to make sure that product demands meet possible engineering solutions, and if not, finding the right compromises.
+
+#### Notes and considerations
+
+This line is still fuzzy, and some developers will do both of these roles. In some companies, some developers will fill both of these roles **and** be the backend developers as well (this is common in smaller startups, companies lacking capital, or companies that view developers as cost-centers instead of value-generators).
+
+It's a good rule of thumb that for most organizations, if you're being hired as a frontend developer, you should be able to write some CSS, and you better know how to fetch data, as well as manipulate it. In larger organizations however, these roles can be more spread out, so the distinction is more obvious.
+
+[Here is a roadmap of all the skills that you might need to be a frontend developer in 2022](https://roadmap.sh/frontend)
+
+If this list is a little overwhelming, that's ok! Starting as a junior somewhere doesn't expect everything, and learning on the job in software is a constant, but very rewarding, race.
+
+## Backend
+
+Popular languages: Python, JavaScript/TypeScript, Ruby, Go, PHP
+
+A backend developer will do a lot of the behind the scenes work. They'll often either create or maintain a database (popular choices, MySQL, PostgreSQL, MongoDB, AWS DynamoDB, and various graph databases), and will set ways to interact with that data either with traditional REST endpoints, or in something like GraphQL.
+
+The idea is for either frontend developers, other businesses, or users to be able to access this data to serve their own needs. This can be things like historical stock data, a users' list of transactions in a month, stock of a car dealerships inventory.
+
+They will:
+
+- **Create databases**
+
+- **Stand up webservers**
+
+- **Interact with operating systems**
+
+- **Set up API routes**
+
+- **Work on security setings**
+
+- **Create backups for the databases**
+
+- **Setup automatic reports and testing for backend systems**
+
+[Here is a roadmap of skills that a backend developer will build over their careers](https://roadmap.sh/backend)
+
+## Devops
+
+Devops is an interesting field, and most new fledgling-developers want to be one, because of the sky-high salaries involved. However, this is a bit of a misnomer.
+
+Most engineers don't start their career in devops. In fact, devops is something that developers might find themselves doing, perhaps 3-5 years into their careers as just part of their natural progression, and before they know it, they have an entire suite of critical skills that businesses want. So, trying to start your career as one might be more challenging than otherwise (unless you perhaps have an advanced degree, like a masters or PhD).
+
+**At it's core, devops is about standing up apps/webapps with good CI/CD, and ensuring that there is no unexpected crashes**.
+
+If you haven't heard of the term before, CI/CD stands for Continuous Interation and Continuous Development. This is a paradigm in programming that goes hand in hand with version control like Git. The idea behind is in that apps should progress smoothly from MVP to polished product, and as developers write code, it gets reviewed, and then get's merged into alpha/beta/main, all in the matter of days, and instead of webapps rolling out big updates every few months (like softwares in the past, where a big update like 1.5 might be a big deal), these updates are instead incremental and subtle.
+
+That isn't to say that software doesn't rely on versions any more, but CI/CD certainly helps roll out features faster, and keeps everything feeling a bit smoother.
+
+They will often start as backend-developers, with a focus on SRE skills, often living in the terminal, or integrating their companies app into 3rd party services, like Azure Devops or AWS.
+
+[Devops roadmap](https://roadmap.sh/devops)
