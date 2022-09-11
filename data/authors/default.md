@@ -1,10 +1,10 @@
 ---
 name: Nolan Braman
-avatar: /static/images/avatar.png
+avatar: /static/images/profile_pic.jpg
 occupation: Software Engineer
 company: Altana Technologies
 email: nolan.braman@gmail.com
-twitter: https://twitter.com/Twitter
+twitter: https://twitter.com/NolanBraman
 linkedin: https://www.linkedin.com/in/nolanbraman/
 github: https://github.com/eathren
 ---
