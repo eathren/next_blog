@@ -11,7 +11,7 @@ const projectsData = [
     description: `A budgeting app built with React and harnessing the power of AWS. It allows users to enter their monthly groups, categories, and transactions, 
     giving users tools to traick their budget and save money.`,
     imgSrc: '/static/images/ftb.png',
-    href: 'www.freethebudget.com',
+    href: 'https://www.freethebudget.com',
   },
 ]
 
